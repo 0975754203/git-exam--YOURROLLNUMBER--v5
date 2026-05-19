@@ -6,6 +6,7 @@ This repository is created for the Git practical examination.
 Students must demonstrate their ability to manage version control
 using Git in real-world scenarios.
 This examination also evaluates branching and collaboration skills.
+This branch adds extra information about the examination workflow.
 
 ---
 
@@ -18,7 +19,6 @@ The repository initially contains the following files:
 - Notes may be added during development (hotfix update)
 
 - README.md
-- Core project files
 - Notes may be added during development
 
 ---
